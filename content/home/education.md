@@ -42,6 +42,6 @@ date_format = "Jan 2006"
 
   Campus Awards:
   * [Phi Beta Kappa](http://www.middlebury.edu/newsroom/archive/2020-news/node/648315)
-  * [2018-19 Outstanding Leader of a Student Organization](http://www.middlebury.edu/newsroom/archive/2019-news/node/618018)
+  * 2018-19 [Outstanding Leader of a Student Organization](http://www.middlebury.edu/newsroom/archive/2019-news/node/618018)
   """
 +++

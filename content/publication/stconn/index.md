@@ -43,7 +43,7 @@ url_poster:
 url_project:
 url_slides: "slides/2019-TQC.pdf"
 url_source:
-url_video: https://youtu.be/s9n2mV9h2AQ 
+url_video: https://www.youtube.com/watch?v=2taoF0hd8Kk
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

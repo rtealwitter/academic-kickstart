@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   organization = "Middlebury College"
   title = "CS 302: Algorithms and Complexity"
   url = "https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FCSCI0302"
-  date_start = "2020-05-01"
-  date_end = "2020-02-01"
-  description = ""
+  date_start = "2020-02-01"
+  date_end = "2020-05-01"
+  description = "Tutor"
 
 +++

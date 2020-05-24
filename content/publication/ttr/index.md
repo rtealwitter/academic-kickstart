@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: https://drive.google.com/file/d/1TRKEu6EXdU5FHsGv4EFWxiInc6zTmt2B/view?usp=sharing
+url_slides: "slides/2020-JMM.pdf"
 url_source:
 url_video: https://youtu.be/GzGz0QIk1_M 
 

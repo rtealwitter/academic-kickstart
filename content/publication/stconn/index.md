@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: https://drive.google.com/file/d/13ibxUDju6VMoSL9OURMHmoD5NHN3LWX4/view?usp=sharing
+url_slides: "slides/2019-TQC.pdf"
 url_source:
 url_video: https://youtu.be/s9n2mV9h2AQ 
 

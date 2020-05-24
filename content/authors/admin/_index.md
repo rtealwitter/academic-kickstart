@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include graph theory, problems in the query model, and quantum algorithms.
 
-interests:
-- Graph Theory
-- Query Problems
-- Quantum Algorithms
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -55,7 +50,15 @@ user_groups:
 - Visitors
 ---
 
-Teal is a PhD student at NYU Tandon advised by
-[Lisa Hellerstein](http://cse.poly.edu/~hstein/).
-Teal received his B.A. in Mathematics and Computer Science 
-from Middlebury College.
+I am a PhD student at NYU Tandon advised by
+[Lisa Hellerstein](http://cse.poly.edu/~hstein/)
+and [Chris Musco](https://www.chrismusco.com/).
+I am interested in graph theory and probability problems
+in the query model.
+
+I received my B.A. in Mathematics and Computer Science from
+Middlebury College in 2020.
+At Middlebury, I designed quantum algorithms for graph theory
+problems with [Shelby Kimmel](http://shelbykimmel.com/)
+and worked on applications of math in recreational board games
+with [Alex Lyford](http://www.middlebury.edu/academics/math/faculty/node/550503).

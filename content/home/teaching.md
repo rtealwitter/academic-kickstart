@@ -20,10 +20,39 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Middlebury College"
-  title = "CS 302: Algorithms and Complexity (Tutor)"
-  url = "https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FCSCI0302"
-  date_start = "2020-02-01"
+  title = "Math Tutor"
+  date_start = "2018-09-01"
   date_end = "2020-05-01"
-  description = ""
+  description = """
+  [MATH 345: Combinatorics](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FMATH0345)
+  (Spring 2020)
 
+  [MATH 310: Probability](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FMATH0310)
+  (Fall 2019)
+
+  [MATH 223: Multivariable Calculus](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FMATH0223)
+  (Spring 2019)
+
+  [MATH 200: Linear Algebra](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FMATH0200)
+  (Fall 2018)
+  """
+
+[[item]]
+  organization = "Middlebury College"
+  title = "Computer Science Tutor"
+  date_start = "2018-02-01"
+  date_end = "2020-05-01"
+  description = """
+  [CSCI 302: Algorithms and Complexity](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FCSCI0302)
+  (Spring 2020)
+
+  [CSCI 333: Quantum Computing](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FCSCI0333)
+  (Fall 2019)
+
+  [CSCI 201: Data Structures](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FCSCI0201)
+  (Spring 2019)
+
+  [CSCI 200: Math Foundations of Computing](https://catalog.middlebury.edu/courses/view/catalog/catalog%2FMCUG/course/course%2FCSCI0200)
+  (Spring, Fall 2018)
+  """
 +++

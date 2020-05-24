@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-  Funded by the Dean's PhD Fellowship
+  Dean's PhD Fellow
   """
 
 [[experience]]

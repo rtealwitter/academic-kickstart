@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_end = "2020-05-24"
   description = """
   National Scholarships:
-  * [Fulbright Scholar](http://www.middlebury.edu/newsroom/archive/2020-news/node/648252) (prevented by COVID)
+  * [Fulbright Scholar](http://www.middlebury.edu/newsroom/archive/2020-news/node/648252) (declined due to COVID)
   * [Goldwater Scholar](http://www.middlebury.edu/newsroom/archive/2019-news/node/619221)
 
   Campus Honors:

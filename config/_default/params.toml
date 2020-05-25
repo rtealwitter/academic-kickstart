@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "370 Jay St.", city = "Brooklyn", region = "NY", postcode = "11201", country = "United States", country_code = "US"}
+address = {}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -105,11 +105,10 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "email", icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:rtealwitter@gmail.com"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:rtealwitter@gmail.com"},
+  {icon = "cv", icon_pack = "ai", name = "Read My CV", link = "files/cv.pdf"},
+  {icon = "github", icon_pack = "fab", name = "Check Out My GitHub", link = "https://github.com/rtealwitter"}, 
+  {icon = "google-scholar", icon_pack = "ai", name = "See My Publications", link = "https://scholar.google.com/citations?user=B2hIq-cAAAAJ&hl=en"},
   ]
 
 ############################
@@ -117,7 +116,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "social.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""

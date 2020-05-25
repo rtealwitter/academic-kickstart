@@ -36,11 +36,11 @@ date_format = "Jan 2006"
   date_start = "2017-02-01"
   date_end = "2020-05-24"
   description = """
-  National Awards:
-  * [Fulbright Scholar](http://www.middlebury.edu/newsroom/archive/2020-news/node/648252) (declined due to Covid-19)
+  National Scholarships:
+  * [Fulbright Scholar](http://www.middlebury.edu/newsroom/archive/2020-news/node/648252) (prevented by COVID)
   * [Goldwater Scholar](http://www.middlebury.edu/newsroom/archive/2019-news/node/619221)
 
-  Campus Awards:
+  Campus Honors:
   * [Phi Beta Kappa](http://www.middlebury.edu/newsroom/archive/2020-news/node/648315)
   * [Outstanding Leader of a Student Organization](http://www.middlebury.edu/newsroom/archive/2019-news/node/618018)
   """

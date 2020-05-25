@@ -28,12 +28,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rtealwitter@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
+- icon: cv
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=B2hIq-cAAAAJ&hl=en
+  link: files/cv.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/rtealwitter
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=B2hIq-cAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +60,7 @@ I am interested in graph theory and probability problems
 in the query model.
 
 I received my B.A. in Mathematics and Computer Science from
-Middlebury College in 2020.
+Middlebury College.
 At Middlebury, I designed quantum algorithms for graph theory
 problems with [Shelby Kimmel](http://shelbykimmel.com/)
 and worked on applications of math in recreational board games

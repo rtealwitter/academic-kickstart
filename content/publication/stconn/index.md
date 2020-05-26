@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Applications of the Quantum Algorithm for st-Connectivity"
-authors: ["Kai Delorenzo", "Shelby Kimmel", "R. Teal Witter"]
+authors: ["Kai DeLorenzo", "Shelby Kimmel", "R. Teal Witter"]
 date: 2019-06-24T02:06:51-06:00
 doi: ""
 

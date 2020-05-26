@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "NYU Tandon"
-  company = "PhD in Computer Science"
+  company = "Ph.D. in Computer Science"
   company_url = ""
   location = "Brooklyn, New York"
   date_start = "2020-09-01"

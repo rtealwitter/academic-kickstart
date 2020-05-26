@@ -53,11 +53,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at NYU Tandon advised by
+I am a Ph.D. student at NYU Tandon advised by
 [Lisa Hellerstein](http://cse.poly.edu/~hstein/)
 and [Chris Musco](https://www.chrismusco.com/).
-I am interested in graph theory and probability problems
-in the query model.
+I am interested in graph theory and probability 
+query problems.
 
 I received my B.A. in Mathematics and Computer Science from
 Middlebury College.

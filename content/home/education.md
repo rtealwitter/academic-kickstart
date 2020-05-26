@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2017-02-01"
   date_end = "2020-05-24"
   description = """
-  National Scholarships:
+  National Honors:
   * [Fulbright Scholar](http://www.middlebury.edu/newsroom/archive/2020-news/node/648252) (I declined due to COVID)
   * [Goldwater Scholar](http://www.middlebury.edu/newsroom/archive/2019-news/node/619221)
 

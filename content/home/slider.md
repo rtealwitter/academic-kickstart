@@ -31,13 +31,6 @@ height = ""
 
 [[item]]
   title = ""
-  content = "Copper Mountain, Colorado"
-  align = "center"
-  overlay_img = "copper.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3
-
-[[item]]
-  title = ""
   content = "Middlebury, Vermont"
   align = "center"
   overlay_img = "middlebury.jpeg"  # Image path relative to your `static/img/` folder.
@@ -59,14 +52,14 @@ height = ""
 
 [[item]]
   title = ""
-  content = "Colorado"
+  content = "Rocky Mountains, Colorado"
   align = "center"
   overlay_img = "colorado.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
-  content = "Turks and Caicos"
+  content = "Providenciales, Turks and Caicos"
   align = "center"
   overlay_img = "turks.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3
@@ -76,6 +69,13 @@ height = ""
   content = "Arusha, Tanzania"
   align = "center"
   overlay_img = "tanzania.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.3
+
+[[item]]
+  title = ""
+  content = "Copper Mountain, Colorado"
+  align = "center"
+  overlay_img = "copper.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3
 
 +++

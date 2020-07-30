@@ -53,13 +53,12 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student at NYU Tandon advised by
-[Lisa Hellerstein](http://cse.poly.edu/~hstein/)
-and [Chris Musco](https://www.chrismusco.com/).
-I am interested in graph theory and probability 
-query problems.
+I am a PhD student at NYU Tandon advised by
+[Lisa Hellerstein](http://cse.poly.edu/~hstein/).
+I am interested in query problems and graph theory.
 
-I received my B.A. in Mathematics and Computer Science from
+I received my undergraduate degrees
+in Mathematics and Computer Science from
 Middlebury College.
 At Middlebury, I designed quantum algorithms for graph theory
 problems with [Shelby Kimmel](http://shelbykimmel.com/)

@@ -19,18 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "NYU Tandon"
-  company = "Ph.D. in Computer Science"
+  company = "PhD in Computer Science"
   company_url = ""
   location = "Brooklyn, New York"
   date_start = "2020-09-01"
   date_end = ""
   description = """
-  Dean's PhD Fellow
+  Funded by the Dean's PhD Fellowship
   """
 
 [[experience]]
   title = "Middlebury College"
-  company = "B.A. in Math, Computer Science"
+  company = "BA in Math, Computer Science • Summa Cum Laude"
   company_url = ""
   location = "Middlebury, Vermont"
   date_start = "2017-02-01"
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   * [Goldwater Scholar](http://www.middlebury.edu/newsroom/archive/2019-news/node/619221)
 
   Campus Honors:
-  * [Phi Beta Kappa](http://www.middlebury.edu/newsroom/archive/2020-news/node/648315)
+  * [Phi Beta Kappa Member](http://www.middlebury.edu/newsroom/archive/2020-news/node/648315)
   * [Outstanding Leader of a Student Organization](http://www.middlebury.edu/newsroom/archive/2019-news/node/618018)
   """
 +++

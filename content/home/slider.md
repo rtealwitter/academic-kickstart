@@ -19,63 +19,63 @@ height = ""
   title = ""
   content = "Aspen, Colorado"
   align = "center"
-  overlay_img = "aspen.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "aspen.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Lone Pine, California"
   align = "center"
-  overlay_img = "ranch.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ranch.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Middlebury, Vermont"
   align = "center"
-  overlay_img = "middlebury.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "middlebury.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Mt. Audubon, Colorado"
   align = "center"
-  overlay_img = "audubon.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "audubon.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Rawhiti, New Zealand"
   align = "center"
-  overlay_img = "new_zealand.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "new_zealand.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Rocky Mountains, Colorado"
   align = "center"
-  overlay_img = "colorado.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "colorado.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Providenciales, Turks and Caicos"
   align = "center"
-  overlay_img = "turks.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "turks.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Arusha, Tanzania"
   align = "center"
-  overlay_img = "tanzania.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "tanzania.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 [[item]]
   title = ""
   content = "Copper Mountain, Colorado"
   align = "center"
-  overlay_img = "copper.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "copper.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.3
 
 +++

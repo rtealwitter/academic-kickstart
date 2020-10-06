@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "papers/ttr.pdf"
-url_code:
+url_code: https://github.com/rtealwitter/Ticket-to-Ride-Engine
 url_dataset:
 url_poster:
 url_project:

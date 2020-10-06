@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Applications of Graph Theory and Probability in the Board Game Ticket to Ride"
-authors: ["Alex Lyford", "R. Teal Witter"]
+authors: ["R. Teal Witter", "Alex Lyford"]
 date: 2020-05-24T02:24:58-06:00
 doi: ""
 

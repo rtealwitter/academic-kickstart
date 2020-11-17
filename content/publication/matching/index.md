@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Applications of the Quantum Algorithm for st-Connectivity"
-authors: ["Kai DeLorenzo", "Shelby Kimmel", "R. Teal Witter"]
-date: 2019-06-24T02:06:51-06:00
+title: "A Query-Efficient Quantum Algorithm for Maximum Matching on General Graphs"
+authors: ["Shelby Kimmel", "R. Teal Witter"]
+date: 2020-10-24T02:06:51-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,16 +13,29 @@ publishDate: 2020-05-24T02:06:51-06:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "14th Conference on the Theory of Quantum Computation, Communication and Cryptography"
-publication_short: "TQC 2019"
+publication: ""
+publication_short: ""
 
-abstract: "We present quantum algorithms for various problems related to graph connectivity. We give simple and query-optimal algorithms for cycle detection and odd-length cycle detection (bipartiteness) using a reduction to st-connectivity. Furthermore, we show that our algorithm for cycle detection has improved performance under the promise of large circuit rank or a small number of edges. We also provide algorithms for detecting even-length cycles and for estimating the circuit rank of a graph. All of our algorithms have logarithmic space complexity. "
+abstract: "We design quantum algorithms for maximum matching.
+Working in the query model, in both adjacency matrix
+and adjacency list settings, we improve on the 
+best known algorithms for general graphs, matching 
+previously obtained results for bipartite graphs.
+In particular, for a graph with $n$ nodes and $m$ edges,
+our algorithm makes $O(n^{7/4})$ queries
+in the matrix model
+and $O(n^{3/4}m^{1/2})$ queries
+in the list model.
+Our approach combines Gabow's classical maximum matching 
+algorithm [Gabow, *Fundamenta Informaticae*, '17] 
+with the guessing tree method
+of Beigi and Taghavi [Beigi and Taghavi, *Quantum*, '20]."
 
 # Summary. An optional shortened abstract.
-summary: "We present quantum algorithms for various problems related to graph connectivity."
+summary: "We present a quantum algorithm for maximum matching on general graphs."
 
 tags: []
 categories: []
@@ -31,21 +44,19 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Proceedings 
-  url: https://drops.dagstuhl.de/opus/volltexte/2019/10398/
 - name: Arxiv
-  url: https://arxiv.org/abs/1904.05995
+  url: https://arxiv.org/abs/2010.02324 
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1904.05995.pdf
+url_pdf: https://arxiv.org/pdf/2010.02324.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: "slides/2019-TQC.pdf"
+url_slides: 
 url_source:
-url_video: https://www.youtube.com/watch?v=2taoF0hd8Kk
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

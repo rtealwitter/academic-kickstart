@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Applications of Graph Theory and Probability in the Board Game Ticket to Ride"
+title: "Applications of Graph Theory and Probability in the Board Game Ticket to Ride*"
 authors: ["R. Teal Witter", "Alex Lyford"]
 date: 2020-05-24T02:24:58-06:00
 doi: ""
@@ -19,7 +19,8 @@ publication_types: ["1"]
 publication: "15th International Conference on the Foundations of Digital Games"
 publication_short: "FDG 2020"
 
-abstract: "In the board game Ticket to Ride, players race to claim routes and connect cities on a map of the U.S. In this work, we identify winning strategies for and potential improvements to Ticket to Ride by applying probabilistic and graph-theoretic concepts. We find that longer routes are overvalued, presenting a simple winning strategy for opportunistic players. The scoring scheme we propose---based on indicator random variables---prevents exploitation from this strategy and improves the competitive nature of the game. Using a variety of game data visualizations, we also investigate why players who connect particular pairs of cities  perform better than others. In addition, we build a statistical model from the effective resistance of the game’s underlying graph  structure to suggest how to choose the best pairs of cities."
+abstract: "In the board game Ticket to Ride, players race to claim routes and connect cities on a map of the U.S. In this work, we identify winning strategies for and potential improvements to Ticket to Ride by applying probabilistic and graph-theoretic concepts. We find that longer routes are overvalued, presenting a simple winning strategy for opportunistic players. The scoring scheme we propose---based on indicator random variables---prevents exploitation from this strategy and improves the competitive nature of the game. Using a variety of game data visualizations, we also investigate why players who connect particular pairs of cities  perform better than others. In addition, we build a statistical model from the effective resistance of the game’s underlying graph  structure to suggest how to choose the best pairs of cities.
+(* indicates that authors are ordered by contribution rather than alphabetically.)"
 
 # Summary. An optional shortened abstract.
 summary: "We identify winning strategies for and improvements to Ticket to Ride using graph-theoretic and probabilistic concepts."
@@ -30,9 +31,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: Proceedings
+  url: https://dl.acm.org/doi/fullHtml/10.1145/3402942.3402963
 #   icon_pack: fab
 #   icon: twitter
 

@@ -1,6 +1,5 @@
 ---
 title: Publications
-subtitle: Authors appear in alphabetical order. Any exceptions are marked with a *, which indicates that authors are ordered by contribution.
 
 # View.
 #   1 = List

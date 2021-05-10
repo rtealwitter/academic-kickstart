@@ -112,7 +112,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:rtealwitter@gmail.com"},
+  {icon = "envelope", icon_pack = "fas", name = "Email Me", link = "mailto:rtealwitter+web@gmail.com"},
   {icon = "cv", icon_pack = "ai", name = "Read My CV", link = "files/cv.pdf"},
   {icon = "github", icon_pack = "fab", name = "Check Out My GitHub", link = "https://github.com/rtealwitter"}, 
   {icon = "google-scholar", icon_pack = "ai", name = "See My Publications", link = "https://scholar.google.com/citations?user=B2hIq-cAAAAJ&hl=en"},

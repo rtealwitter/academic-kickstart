@@ -27,7 +27,7 @@ bio: My research interests include graph theory, problems in the query model, an
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rtealwitter@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rtealwitter+web@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf

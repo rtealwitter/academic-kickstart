@@ -33,7 +33,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Proceedings
-  url: https://dl.acm.org/doi/fullHtml/10.1145/3402942.3402963
+  url: https://dl.acm.org/doi/10.1145/3402942.3402963
 #   icon_pack: fab
 #   icon: twitter
 

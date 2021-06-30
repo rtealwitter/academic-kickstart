@@ -23,7 +23,7 @@ abstract: "In the board game Ticket to Ride, players race to claim routes and co
 (* Authors ordered by contribution rather than alphabetically.)"
 
 # Summary. An optional shortened abstract.
-summary: "We identify winning strategies for and improvements to Ticket to Ride using graph-theoretic and probabilistic concepts."
+summary: "We identify winning strategies for Ticket to Ride using graph-theoretic and probabilistic concepts."
 
 tags: []
 categories: []

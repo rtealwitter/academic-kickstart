@@ -32,11 +32,11 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Arxiv
-  url: https://arxiv.org/abs/2010.02324 
+  url: https://arxiv.org/abs/2106.16172
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2010.02324.pdf
+url_pdf: https://arxiv.org/pdf/2106.16172.pdf
 url_code:
 url_dataset:
 url_poster:

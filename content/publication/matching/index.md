@@ -44,6 +44,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- name: Proceedings 
+  url: https://link.springer.com/chapter/10.1007/978-3-030-83508-8_39
 - name: Arxiv
   url: https://arxiv.org/abs/2010.02324 
 #   icon_pack: fab

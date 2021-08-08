@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "NYU Tandon"
   title = "Teaching Assistant"
   date_start = "2021-01-01"
-  date_end = "Present"
+  date_end = "2021-05-01"
   description = """
   [CS-GY 6923: Machine Learning](http://catalog.poly.edu/preview_course.php?catoid=14&coid=34525&print)
   (Fall 2021)

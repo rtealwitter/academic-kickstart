@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "NYU Tandon"
+  title = "Teaching Assistant"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """
+  CS-GY 6923: Machine Learning
+  (Fall 2021)
+  """
+
+[[item]]
   organization = "Middlebury College"
   title = "Math Tutor"
   date_start = "2018-09-01"

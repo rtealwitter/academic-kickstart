@@ -55,7 +55,8 @@ user_groups:
 
 I am a PhD student at NYU Tandon advised by
 [Lisa Hellerstein](http://cse.poly.edu/~hstein/).
-I am interested in query problems and graph theory.
+I am broadly interested in algorithms,
+complexity theory, and discrete mathematics.
 
 I received my undergraduate degrees
 in Mathematics and Computer Science from

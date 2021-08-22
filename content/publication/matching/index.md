@@ -35,7 +35,7 @@ with the guessing tree method
 of Beigi and Taghavi [Beigi and Taghavi, *Quantum*, '20]."
 
 # Summary. An optional shortened abstract.
-summary: "We present a quantum algorithm for maximum matching on general graphs."
+summary: "17th Algorithms and Data Structures Symposium (WADS 2020)."
 
 tags: []
 categories: []

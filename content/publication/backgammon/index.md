@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "We study the computational complexity of the popular board game backgammon. We show that deciding whether a player can win from a given board configuration is NP-Hard, PSPACE-Hard, and EXPTIME-Hard under different settings of known and unknown opponents' strategies and dice rolls. Our work answers an open question posed by Erik Demaine in 2001. In particular, for the real life setting where the opponent's strategy and dice rolls are unknown, we prove that determining whether a player can win is EXPTIME-Hard. Interestingly, it is not clear what complexity class strictly contains each problem we consider because backgammon games can theoretically continue indefinitely as a result of the capture rule."
 
 # Summary. An optional shortened abstract.
-summary: "We study the complexity of deciding whether a player can win a game of backgammon."
+summary: "Preprint."
 
 tags: []
 categories: []

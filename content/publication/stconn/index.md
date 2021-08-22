@@ -22,7 +22,7 @@ publication_short: "TQC 2019"
 abstract: "We present quantum algorithms for various problems related to graph connectivity. We give simple and query-optimal algorithms for cycle detection and odd-length cycle detection (bipartiteness) using a reduction to st-connectivity. Furthermore, we show that our algorithm for cycle detection has improved performance under the promise of large circuit rank or a small number of edges. We also provide algorithms for detecting even-length cycles and for estimating the circuit rank of a graph. All of our algorithms have logarithmic space complexity. "
 
 # Summary. An optional shortened abstract.
-summary: "We present quantum algorithms for various problems related to graph connectivity."
+summary: "14th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2019)."
 
 tags: []
 categories: []

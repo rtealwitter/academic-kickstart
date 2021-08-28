@@ -3,11 +3,11 @@
 
 title: "A Query-Efficient Quantum Algorithm for Maximum Matching on General Graphs"
 authors: ["Shelby Kimmel", "R. Teal Witter"]
-date: 2020-10-24T02:06:51-06:00
+date: 2021-08-09T00:00:00-00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-24T02:06:51-06:00
+publishDate: 2021-08-09T00:00:00-00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ with the guessing tree method
 of Beigi and Taghavi [Beigi and Taghavi, *Quantum*, '20]."
 
 # Summary. An optional shortened abstract.
-summary: "17th Algorithms and Data Structures Symposium (WADS 2020)."
+summary: "17th Algorithms and Data Structures Symposium (WADS 2021)."
 
 tags: []
 categories: []

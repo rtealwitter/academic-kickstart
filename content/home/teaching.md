@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   description = """
   [CS-GY 6923: Machine Learning](http://catalog.poly.edu/preview_course.php?catoid=14&coid=34525&print)
   (Spring 2021)
+
   [CS-GY 6763: Algorithmic Machine Learning and Data Science](https://www.chrismusco.com/amlds2021/)(Fall 2021)
   """
 
